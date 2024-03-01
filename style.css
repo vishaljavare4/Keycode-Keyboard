@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, sans-serif;
+    color: rgb(16, 238, 16);
+  }
+  
+  .container {
+    display: block;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .display {
+    background-color: tomato;
+    text-align: center;
+    border: 2px solid #333;
+    padding: 20px;
+    border-radius: 10px;
+    width: 374px;
+    height: 174px;
+    margin-left: 534px;
+    margin-top: 150px;
+  }
+
+  .heading{
+    margin-top: 134px;
+    margin-left: 545px;
+    margin-bottom: -90px;
+  }
+  
+  .display p {
+    margin: 10px 0;
+    font-size: 18px;
+  }
+  
+  #pressedKey{
+    margin-top: 15px;
+    font-size: 50px;
+  }
+
+  #keyCode{
+    font-size: 43px;
+  }
